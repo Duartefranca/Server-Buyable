@@ -7,6 +7,11 @@ https://buyable.netlify.app/
 
 <br>
 
+## Buyable Client: 
+https://github.com/Duartefranca/Client-Buyable
+
+<br>
+
 ## Description
 
 This is a app to sell or trade products. This products can be new or used.
