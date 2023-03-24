@@ -2,7 +2,8 @@
 
 <br>
 
-# Quick Compo
+## DEPLOYED LINK: 
+https://buyable.netlify.app/
 
 <br>
 
